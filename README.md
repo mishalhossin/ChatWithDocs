@@ -1,1 +1,1 @@
-# ObsidianGPT
+# ChatWithDocs
