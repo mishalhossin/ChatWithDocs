@@ -1,0 +1,3 @@
+BASE_URL: "http://localhost:11434"
+EMBEDDINGS_MODEL: "nomic-embed-text"
+CHAT_MODEL: "mistral-7b-instruct"

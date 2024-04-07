@@ -1,0 +1,7 @@
+httpx
+langchain
+langchain-community
+streamlit
+duckduckgo-search
+beautifulsoup4
+"unstructured[md]"
